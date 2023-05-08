@@ -3,7 +3,7 @@ const CONFIG = {
 
     background: "background.jpg",
 
-    min1: "z4326853131055_bb83fb0b7880ecc734f4bbfb94867d4a.jpg",
+    min1: "images/z4326853079571_32274df0db09d641462c75d6addf520c.jpg",
     min2: "mz4326853127095_ef59a878135d059bcbd9d2e105f869cd.jpg",
     min3: "z4326853125072_26016ad5c9401f19723dbabc5776262d.jpg",
     min4: "z4326853116272_7e6ef8d0e42041366d874fb0151dd6af.jpg",
