@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "Gửi em",
+    titleWeb: "Gửi Hà Trang Páoo
 
     background: "background.jpg",
 
-    min1: "min1.jfif",
-    min2: "min2.jpg",
-    min3: "max3.jpg",
-    min4: "max4.webp",
-    min5: "min5.jpg",
-    min6: "min6.jpg",
+    min1: "z4326853131055_bb83fb0b7880ecc734f4bbfb94867d4a.jpg",
+    min2: "mz4326853127095_ef59a878135d059bcbd9d2e105f869cd.jpg",
+    min3: "z4326853125072_26016ad5c9401f19723dbabc5776262d.jpg",
+    min4: "z4326853116272_7e6ef8d0e42041366d874fb0151dd6af.jpg",
+    min5: "z4326853111587_fa321be9e6be78e6e219a8c55b19e9bd.jpg",
+    min6: "z4326853104095_41872f3aff23d26dbdefbce954a3b1a6.jpg",
 
-    max1: "max1.jpg",
-    max2: "max2.jpg",
-    max3: "max3.jpg",
-    max4: "max4.webp",
-    max5: "max5.png",
-    max6: "max6.jpg",
+    max1: "z4326853099809_5dc8fe1b21290ceb2c578a9c233206c3.jpg",
+    max2: "z4326853096670_a0eb15b46be207ae276d294bcd05e2dd.jpg",
+    max3: "z4326853096310_0c88379301861e06f98bf97699ee1eda.jpg",
+    max4: "z4326853091561_64b3355bcb2988f42d349bed4f85741f.jpg",
+    max5: "z4326853080600_d71aa86fe8dce700dace62ee065eea1e.jpg",
+    max6: "z4326853079571_32274df0db09d641462c75d6addf520c.jpg",
 }
